@@ -1,0 +1,32 @@
+{
+    "name": "ccui-foundation",
+    "version": "1.0.0",
+    "main": "ccui-foundation.js",
+    "homepage": "https://github.com/taoyuan/ccui-foundation",
+    "authors": [
+        "torworx <torworx@gmail.com>"
+    ],
+    "description": "CCUI Foundation JavaScript Library",
+    "keywords": [
+        "ccui"
+    ],
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "components",
+        "test",
+        "tests",
+        "Gruntfile.js",
+        "package.js",
+        "examples"
+    ],
+    "devDependencies": {
+        "classie": "desandro/classie",
+        "eventEmitter": ">=3 <5",
+        "eventie": "desandro/eventie",
+        "get-style-property": "desandro/get-style-property",
+        "get-size": "desandro/get-size#>=1.1.0",
+        "outlayer": ">=1.1 <2"
+    }
+}

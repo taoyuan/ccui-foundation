@@ -1,0 +1,23 @@
+{
+    "name": "ccui-foundation",
+    "version": "1.0.0",
+    "description": "CCUI Foundation JavaScript Library",
+    "main": "ccui-foundation.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/taoyuan/ccui-foundation.git"
+    },
+    "author": "",
+    "bugs": {
+        "url": "https://github.com/taoyuan/ccui-foundation/issues"
+    },
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "grunt-cli": "~0.1.7",
+        "grunt-contrib-concat": "~0.1.3",
+        "grunt-contrib-uglify": "~0.1.2"
+    }
+}

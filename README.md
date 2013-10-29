@@ -1,4 +1,4 @@
 ccui-foundation
 ===============
 
-ccui foundation library
+CCUI Foundation JavaScript Library
